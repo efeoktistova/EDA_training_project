@@ -1,8 +1,8 @@
 # Учебный проект 
-Задачи: обработка и анализ данных, ML\
-Библиотеки: pandas, numpy, seaborn, matplotlib, pansql, dataprep, skikit-learn, pycaret\
+**Задачи**: обработка и анализ данных, ML\
+**Библиотеки**: pandas, numpy, seaborn, matplotlib, pansql, dataprep, skikit-learn, pycaret\
 \
-Применяемые процедуры и методы:\
+**Применяемые процедуры и методы**:\
 импорт/экспорт данных из excel, BigQuery, объединение таблиц\
 создание датафрема, списков\
 проверка и изменение типов данных\
